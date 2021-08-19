@@ -1,1 +1,1 @@
-bash script to print current working directory
+# bash script to print current working directory
