@@ -1,2 +1,2 @@
 #!/bin/bash
-file -type d | chmod 755
+file -type d | chmod a+x
